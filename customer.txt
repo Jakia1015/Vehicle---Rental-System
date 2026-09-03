@@ -1,0 +1,60 @@
+==========================================
+Customer ID   : 1
+Customer Name : tasnim
+Phone Number  : 01812135445
+Address       : cumilla
+------------------------------------------
+==========================================
+Customer ID   : 2
+Customer Name : samira
+Phone Number  : 01812134567
+Address       : cumilla
+------------------------------------------
+==========================================
+Customer ID   : 3
+Customer Name : jakia sultana
+Phone Number  : 01817135467
+Address       : dhaka
+------------------------------------------
+==========================================
+Customer ID   : 4
+Customer Name : taaha
+Phone Number  : 01819166890
+Address       : bakhrabad
+------------------------------------------
+==========================================
+Customer ID   : 5
+Customer Name : maria
+Phone Number  : 01812134567
+Address       : cantonment
+------------------------------------------
+==========================================
+Customer ID   : 6
+Customer Name : saima
+Phone Number  : 01812134554
+Address       : muradnagar
+------------------------------------------
+==========================================
+Customer ID   : 7
+Customer Name : nirvana
+Phone Number  : 01812123454
+Address       : dhaka
+------------------------------------------
+==========================================
+Customer ID   : 8
+Customer Name : nirjhora
+Phone Number  : 01812134234
+Address       : dhaka
+------------------------------------------
+==========================================
+Customer ID   : 9
+Customer Name : nidhera
+Phone Number  : 01812134567
+Address       : dhaka
+------------------------------------------
+==========================================
+Customer ID   : 10
+Customer Name : rupu
+Phone Number  : 01918176567
+Address       : jahapur
+------------------------------------------

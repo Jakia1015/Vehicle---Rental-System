@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1783696461 source:c:\users\hp\desktop\vehicle rantal system\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

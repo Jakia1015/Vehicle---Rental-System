@@ -1,0 +1,84 @@
+==================================================
+          VEHICLE RENTAL SYSTEM DATA
+==================================================
+
+Vehicle ID   : 1
+Vehicle Name : Corola
+Brand        : Toyota
+Rent Per Day : 6000
+Status       : Rented
+
+--------------------------------------------------
+
+Vehicle ID   : 2
+Vehicle Name : Camry
+Brand        : Toyota
+Rent Per Day : 4000
+Status       : Rented
+
+--------------------------------------------------
+
+Vehicle ID   : 3
+Vehicle Name : Civic
+Brand        : Honda
+Rent Per Day : 8000
+Status       : Rented
+
+--------------------------------------------------
+
+Vehicle ID   : 4
+Vehicle Name : Model y
+Brand        : Tesla
+Rent Per Day : 4000
+Status       : Available
+
+--------------------------------------------------
+
+Vehicle ID   : 5
+Vehicle Name : 911
+Brand        : Porsche
+Rent Per Day : 8000
+Status       : Available
+
+--------------------------------------------------
+
+Vehicle ID   : 6
+Vehicle Name : M3
+Brand        : BWM
+Rent Per Day : 9000
+Status       : Available
+
+--------------------------------------------------
+
+Vehicle ID   : 7
+Vehicle Name : Range Rover
+Brand        : Land Rover
+Rent Per Day : 7000
+Status       : Available
+
+--------------------------------------------------
+
+Vehicle ID   : 8
+Vehicle Name : Alto
+Brand        : Suzuki
+Rent Per Day : 3000
+Status       : Available
+
+--------------------------------------------------
+
+Vehicle ID   : 9
+Vehicle Name : Sunny
+Brand        : Nissan
+Rent Per Day : 5000
+Status       : Available
+
+--------------------------------------------------
+
+Vehicle ID   : 10
+Vehicle Name : Tucson
+Brand        : Kia
+Rent Per Day : 7000
+Status       : Available
+
+--------------------------------------------------
+
